@@ -6,5 +6,5 @@ Another entry for my patented line of joke scientific applications, i present so
 This could also technically be called SoFA (Singletons-only Frequency of Alleles), which is also satisfying, but I prefer soSFS. 
 
 Marcelo's suggestions: 
-gimeless - genealogical information mutilation expected leveraging site spectrum
-Gimelesss - Genealogical informative mutation effectively leveraged with Singleton-only site spectrum
+* gimeless - genealogical information mutilation expected leveraging site spectrum
+* Gimelesss - Genealogical informative mutation effectively leveraged with Singleton-only site spectrum
