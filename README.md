@@ -1,2 +1,8 @@
 # soSFS
 A highly optimized SFS representation for demographic inference.
+
+Another entry for my patented line of joke scientific applications, i present soSFS, the "singletons-only site frequency spectrum". It's a performance enhancement that entirely relies on information from depleted or inflated # of singletons under different demographic histories, allowing you to throw out information from all the other bins. Reduces file size AND increases simulation efficiency!
+
+This could also technically be called SoFA (Singletons-only Frequency of Alleles), which is also satisfying, but I prefer soSFS. 
+
+Marcelo suggests: Gimelesss - Genealogical informative mutation effectively leveraged with Singleton-only site spectrum
